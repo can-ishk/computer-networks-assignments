@@ -1,24 +1,10 @@
-~ Work in Progress ~
 > Files
-- assignment-x.cc: Assignment Code
+- assignment-x.cc: Assignment code
+- /assignment-x.cc: For submodules
 - scripts/assignmentx.sh: Scripts for the commands
 
 > Assignment Summaries:
-- Assignment 1 (ns-3)
-    <br/>Question
-    <br/>Approach
-- Assignment 2 (ns-3)
-    <br/>Question
-    <br/>Approach
-- Assignment 3 ()
-    <br/>Question
-    <br/>Approach
-- Assignment 4 ()
-    <br/>Question
-    <br/>Approach
-- Assignment 5 ()
-    <br/>Question
-    <br/>Approach
-- Assignment 6 ()
-    <br/>Question
-    <br/>Approach
+- Assignment 1 (ns-3): P2P Link
+- Assignment 2 (ns-3): Wireless
+- Assignment 3 (Socket Programming): Full Duplex Chat, RPC
+
